@@ -1,4 +1,4 @@
-FROM node:9.8.0
+FROM node:10.4.0
 
 ENV CHROME_VERSION="google-chrome-stable"
 
